@@ -1,0 +1,37 @@
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.exe.config
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.exe
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.pdb
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.csprojResolveAssemblyReference.cache
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\App.g.cs
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch_MarkupCompile.cache
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.g.resources
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.Properties.Resources.resources
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.csproj.GenerateResource.Cache
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.exe
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.pdb
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\View\InstrumentSearch.g.cs
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch_MarkupCompile.lref
+\\ukfilnas900\filusers6\a539042\documents\visual studio 2013\Projects\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\View\InstrumentSearch.baml
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\Data\WIKI-datasets-codes.csv
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.exe.config
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.exe
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\FuzzyLogicSearch.pdb
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\DuoVia.FuzzyStrings.dll
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\MahApps.Metro.dll
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\System.Windows.Interactivity.dll
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\DuoVia.FuzzyStrings.pdb
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\MahApps.Metro.pdb
+C:\FuzzyLogicSearch\FuzzyLogicSearch\bin\Debug\MahApps.Metro.xml
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\App.baml
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\View\InstrumentSearch.g.cs
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\App.g.cs
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch_MarkupCompile.cache
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch_MarkupCompile.lref
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\View\InstrumentSearch.baml
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.g.resources
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.Properties.Resources.resources
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.csproj.GenerateResource.Cache
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.exe
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.pdb
+C:\FuzzyLogicSearch\FuzzyLogicSearch\obj\Debug\FuzzyLogicSearch.csprojResolveAssemblyReference.cache
